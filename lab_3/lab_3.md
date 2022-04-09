@@ -22,11 +22,13 @@
 2. 在complex.c或complex.cpp中实现所有接口；
 3. 在main.c或main.cpp中通过`#include <complex.h>`引入复数抽象数据类型并使用；
 4. 程序要求打印信息如下：
+```
 Complex a= 1+2i
 Complex b = 3+4i
 Complex a+b = 4+6i
 Complex a-b = -2-2i
 Complex a\*b = -5+10i
 Complex a/b = 1.8+0.4i
+```
 
 # Lab 3-3 栈
