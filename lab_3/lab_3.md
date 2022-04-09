@@ -17,4 +17,16 @@
 
 # Lab 3-2  抽象数据类型
 
+实现复数的抽象数据类型，要求支持复数的+,-,\*,/运算和打印功能，要求：
+1. 在complex.h中定义复数类型和接口；
+2. 在complex.c或complex.cpp中实现所有接口；
+3. 在main.c或main.cpp中通过`#include <complex.h>`引入复数抽象数据类型并使用；
+4. 程序要求打印信息如下：
+Complex a= 1+2i
+Complex b = 3+4i
+Complex a+b = 4+6i
+Complex a-b = -2-2i
+Complex a\*b = -5+10i
+Complex a/b = 1.8+0.4i
+
 # Lab 3-3 栈
