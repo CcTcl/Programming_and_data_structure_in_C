@@ -5,12 +5,12 @@
  2. 通过传地址方式调用函数，从键盘输入学生信息或随机产生信息；
  3. 修改课件上三种方法对应的minMax函数，以传值方式传入科目信息，使之能够正确计算各个单科成绩的最低和最高成绩；
  4. 输出格式, 其中蓝色部分作为可选输出学生姓名：
-Chinese:    max: 98   Zhangsan  min: 63   Wangwu
-Math:       max: 100  Lisi      min: 65   Dalin
-English:    max: 99   Liuda     min: 90   Fengda
-physics:    max: 99   Liuda     min: 90   Liuda
-Chemistry:  max: 99   Liuda     min: 90   Liuda
-Total:      max: 99   Liuda     min: 90   Liuda
+|Chinese:    |max: 98   |Zhangsan  |min: 63   |Wangwu|
+|Math:       |max: 100  |Lisi      |min: 65   |Dalin|
+|English:    |max: 99   |Liuda     |min: 90   |Fengda|
+|Physics:    |max: 99   |Liuda     |min: 90   |Liuda|
+|Chemistry:  |max: 99   |Liuda     |min: 90   |Liuda|
+|Total:      |max: 99   |Liuda     |min: 90   |Liuda|
 
 # Lab 3-2  抽象数据类型
 
