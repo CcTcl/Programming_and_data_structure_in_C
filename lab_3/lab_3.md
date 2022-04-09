@@ -8,11 +8,11 @@
 | Subject | max | Name(Optimal) | min | Name(Optimal) |
 | :--: | :--: | :--: | :--: | :--: |
 | Chinese | max: 98 | Zhangsan | min: 63 |Wangwu |
-|Math | max: 100 | Lisi | min: 65 | Dalin |
-|English | max: 99 | Liuda | min: 90 | Fengda |
-|Physics | max: 99 | Liuda | min: 90 | Liuda |
-|Chemistry | max: 99 | Liuda | min: 90 | Liuda |
-|Total | max: 99 | Liuda | min: 90 | Liuda |
+| Math | max: 100 | Lisi | min: 65 | Dalin |
+| English | max: 99 | Liuda | min: 90 | Fengda |
+| Physics | max: 99 | Liuda | min: 90 | Liuda |
+| Chemistry | max: 99 | Liuda | min: 90 | Liuda |
+| Total | max: 99 | Liuda | min: 90 | Liuda |
 
 # Lab 3-2  抽象数据类型
 
